@@ -29,7 +29,7 @@ To get started with the trivia game, you will need to install the following depe
 * Python 3
 * Flask
 
-1. Once you have installed the dependencies, you can clone the project repository - https://github.com/SarojArchana/CPSC-8710
+1. Once you have installed the dependencies, you can clone the project repository - https://github.com/viprajtelukoti/CPSC8710_Gamedev
 2. Run the following command to start the development server: python main.py
 
 ## Developers
