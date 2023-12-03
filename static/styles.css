@@ -1,0 +1,151 @@
+/* styles.css */
+
+body {
+    /* font-family: Arial, sans-serif; */
+    font-family: 'Tinos', serif;    
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  /*  background-image: url('https://i.stack.imgur.com/kx8MT.gif');*/
+  
+  
+    background-color: #e6c156;
+    
+    
+}
+body::after{
+    content: '';
+    background-image: url('historicplc.jpg');
+    background-size: cover;
+    animation: slideshow 5s linear infinite; 
+    width: 100%;
+    height: 100%;
+    background-repeat: repeat;
+    position:absolute;
+    z-index: 99;
+}
+@keyframes slideshow{
+
+    /*0%{
+        background-position-x: 0px;
+    }
+    100%{
+        background-position-x: -200%;
+    }*/
+    /*75%{background-position-x:-100%}*/
+    100%{background-position-x:100vw }
+
+}
+
+.img-bg{
+    z-index: 999;
+}
+.container {
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+}
+
+h1 {
+    color: #007BFF;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+    font-size: 20px;
+    color: #333;
+}
+
+a {
+    cursor: pointer;
+    outline: 0;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 20px;
+    border-radius: .25rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+a:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+.title {
+    position: fixed;
+    /*width: 25%;*/
+    top: 0%;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+    outline: 0;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 20px;
+    border-radius: .25rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+input[type="submit"]:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+.git-btn{
+    background-color: transparent;
+    position: fixed;
+    bottom: 30px;
+    right: 0px;
+}
+/* Add styles for the GitHub icon */
+.github-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    text-decoration: none;
+}
+
+.github-icon img {
+    width: 50px; /* Adjust the width and height as needed */
+    height: 50px;
+}
+._1kDr3_UHgHl96VVs-_Zt65.SVGInline > .SVGInline-svg {
+    font-size: 230%;
+}
+
+a > .SVGInline > .SVGInline-svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: text-bottom;
+}
+
