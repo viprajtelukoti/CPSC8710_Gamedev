@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Which city was the capital of the Byzantine Empire and later the Ottoman Empire?",
+        "options": ["Constantinople", "Athens", "Rome", "Jerusalem"],
+        "answer": "Constantinople"
+    },
+    {
+        "question": "Where did the first shots of the American Civil War occur in the USA?",
+        "options": ["Charleston, South Carolina", "Gettysburg, Pennsylvania", "Antietam, Maryland", "Manassas, Virginia"],
+        "answer": "Charleston, South Carolina"
+    },
+    {
+        "question": "Which city in the USA was the site of the famous Boston Tea Party?",
+        "options": ["New York City", "Boston", "Philadelphia", "Washington, D.C."],
+        "answer": "Boston"
+    },
+    {
+        "question": "In which city was the Declaration of Independence signed in 1776?",
+        "options": ["Philadelphia", "Boston", "New York City", "Charleston"],
+        "answer": "Philadelphia"
+    },
+    {
+        "question": "Which city is known for the historic event of the Alamo during the Texan Revolution?",
+        "options": ["San Francisco", "Austin", "San Antonio", "Houston"],
+        "answer": "San Antonio"
+    },
+    {
+        "question": "Which city in the USA was the site of the famous Wall Street Crash of 1929?",
+        "options": ["New York City", "Chicago", "Los Angeles", "Detroit"],
+        "answer": "New York City"
+    },
+    {
+        "question": "Which city is known for the historic event of the Gold Rush in the mid-1800s?",
+        "options": ["San Francisco", "Seattle", "Denver", "Salt Lake City"],
+        "answer": "San Francisco"
+    },
+    {
+        "question": "Which city served as the political and cultural center of the ancient Roman Empire and is home to iconic structures like the Colosseum and the Roman Forum?",
+        "options": ["Athens", "Paris", "Rome", "Istanbul"],
+        "answer": "Rome"
+    },
+    {
+        "question": "Which city in India is famous for its historic love monument, the Taj Mahal, built in the 17th century by the Mughal Emperor Shah Jahan?",
+        "options": ["Delhi", "Agra", "Jaipur", "Mumbai"],
+        "answer": "Agra"
+    },
+    {
+        "question": "Which city in Egypt is home to the Great Pyramids, one of the Seven Wonders of the Ancient World, built as a tomb for the Pharaoh Khufu?",
+        "options": ["Cairo", "Luxor", "Alexandria", "Giza"],
+        "answer": "Giza"
+    },
+        {
+        "question": "Who wrote the play Romeo and Juliet?",
+        "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What was the primary purpose of the Great Wall of China?",
+        "options": ["To serve as a trade route", "To protect against invasions", "To symbolize unity", "To store food supplies"],
+        "answer": "To protect against invasions"
+    },
+    {
+        "question": "Which event is considered to be the start of the Renaissance?",
+        "options": ["The Fall of Constantinople", "The invention of the printing press", "The Black Death", "The Hundred Years' War"],
+        "answer": "The Fall of Constantinople"
+    },
+    {
+        "question": "What was the name of the American president who led the country through the Civil War?",
+        "options": ["Abraham Lincoln", "George Washington", "Theodore Roosevelt", "Franklin D. Roosevelt"],
+        "answer": "Abraham Lincoln"
+    },
+    {
+		"question": "Which European country was the first to establish a permanent colony in North America?",
+		"options": ["England", "France", "Spain", "Netherlands"],
+		"answer": "England"
+    },
+	{
+		"question": "Which American president was the first to be impeached?",
+		"options": ["Andrew Johnson", "Richard Nixon", "Bill Clinton", "Donald Trump"],
+		"answer": "Andrew Johnson"
+	}
+]
